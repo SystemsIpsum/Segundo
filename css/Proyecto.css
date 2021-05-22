@@ -836,3 +836,19 @@ h2{
     width: 90%;
 
 }
+.inicio .info-container .videos{
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    position: relative;
+}
+.incio .info-container video{
+    width: 100%;
+}
+.inicio .info-container iframe{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
