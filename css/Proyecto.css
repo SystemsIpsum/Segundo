@@ -18,37 +18,7 @@ body{
 h2{
     color: #ff414d;
 }
-/*Go top*/
-.go-top{
-    position: fixed;
-    bottom: 100px;
-    right: 0;
-    width: 50px;
-    height: 50px;
-    border: 2px solid var(--green);
-    background: #fff;
-    z-index: 9999;
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-    transition: 400ms;
-}
-.go-top:hover{
-    border: 2px solid var(--white);
-    background:var(--blue);
-    position: fixed;
-}
-.go-top:hover span{
-    color: var(--white);
-    position: fixed;
-}
-.go-top > span{
-    font-size: 30px;
-    color: var(--black);
-    position: fixed;
-}
 /*Menu de Navegacio*/
 #header{
     position: relative;
