@@ -842,6 +842,7 @@ h2{
     height: 0;
     overflow: hidden;
     position: relative;
+    margin-top: 20px;
 }
 .incio .info-container video{
     width: 100%;
