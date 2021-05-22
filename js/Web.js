@@ -62,16 +62,7 @@ window.onscroll = () => {
 }
 //Ocultar barra//
 
-//Boton arriba//
 
-let goTop =document.querySelector('.go-top')
-
-goTop.addEventListener('click' , () => {
-
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
-});
-//Boton arriba//
 
 
 
