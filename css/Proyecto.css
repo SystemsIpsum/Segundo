@@ -38,13 +38,16 @@ h2{
 .go-top:hover{
     border: 2px solid var(--white);
     background:var(--blue);
+    position: fixed;
 }
 .go-top:hover span{
     color: var(--white);
+    position: fixed;
 }
 .go-top > span{
     font-size: 30px;
     color: var(--black);
+    position: fixed;
 }
 /*Menu de Navegacio*/
 #header{
